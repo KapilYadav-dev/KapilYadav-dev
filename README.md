@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kapil Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"><img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" style="max-width:100%;"></a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilyadav-dev&label=Profile%20views&color=0e75b6&style=flat" alt="kapilyadav-dev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kapilyadav-dev" alt="kapilyadav-dev" /></a> </p>
 
 - 🔭 I’m currently working on [Edvora](https://github.com/KapilYadav-dev/Edvora-App)
 
