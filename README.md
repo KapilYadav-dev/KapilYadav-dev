@@ -3,8 +3,6 @@
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"><img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" style="max-width:100%;"></a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilyadav-dev&label=Profile%20views&color=0e75b6&style=flat" alt="kapilyadav-dev" /> </p>
 
-- 🔭 I’m currently working on [Edvora](https://github.com/KapilYadav-dev/Edvora-App)
-
 - 👨‍💻 All of my projects are available at [https://github.com/KapilYadav-dev](https://github.com/KapilYadav-dev)
 
 - 📝 I regulary write articles on [TheBtechian.com](TheBtechian.com)
