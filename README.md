@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kapil Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India <span style="color:green;">(on the way to Fullstack⚡)</span> </h3>
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"><img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" style="max-width:100%;"></a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilyadav-dev&label=Profile%20views&color=0e75b6&style=flat" alt="kapilyadav-dev" /> </p>
 
