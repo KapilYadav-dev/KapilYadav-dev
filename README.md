@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KapilYadav-dev](https://github.com/KapilYadav-dev)
 
-- 📝 I regulary write articles on [TheBtechian.com](TheBtechian.com)
+- 📝 I rarely write articles on [TheBtechian.com](TheBtechian.com)
 
 - 📫 How to reach me **infokaydev@gmail.com**
 
