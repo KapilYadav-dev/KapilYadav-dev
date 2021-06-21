@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kapil Yadav a.k.a mrkaydev 😎</h1>
 <h3 align="center">A passionate Native Android 📱 developer from India <span style="color:green;">(on the way to Fullstack⚡)</span> </h3>
-<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"><img src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" alt="Hello world" style="max-width:100%;"></a></p>
+<br>
+<p align="center"><a target="_blank" rel="noopener noreferrer" ><kbd><img src="https://cdn.dribbble.com/users/2893612/screenshots/5654578/hello-dribbble.gif" alt="Hello world" style="max-width:100%;"></kbd></a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilyadav-dev&label=Profile%20views&color=blueviolet&style=plastic" alt="kapilyadav-dev" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/KapilYadav-dev](https://github.com/KapilYadav-dev)
