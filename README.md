@@ -4,17 +4,14 @@
 <p align="center"><a target="_blank" rel="noopener noreferrer" ><kbd><img src="https://cdn.dribbble.com/users/2893612/screenshots/5654578/hello-dribbble.gif" alt="Hello world" style="max-width:100%;"></kbd></a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilyadav-dev&label=Profile%20views&color=blueviolet&style=plastic" alt="kapilyadav-dev" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/KapilYadav-dev](https://github.com/KapilYadav-dev)
-
-- 📝 I rarely write articles on [TheBtechian.com](TheBtechian.com)
+- 👨‍💻 All of my projects are available <a href="https://linktr.ee/mrkaydev"> here </a>
 
 - 📫 How to reach me **infokaydev@gmail.com**
 
 - ⚡ Fun fact **I don't know coding :)**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 🏋🏽 Eat Big, Lift Bigger
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
