@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **infokaydev@gmail.com**
 
-- ⚡ Fun fact **I don't know coding :)**
+- ⚡ Fun fact **I prefer Parle-G with water 🤭**
 
 - 🏋🏽 Eat Big, Lift Bigger
 <br>
