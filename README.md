@@ -12,6 +12,8 @@
 - ⚡ Fun fact **I prefer Parle-G with water 🤭**
 
 - 🏋🏽 Eat Big, Lift Bigger
+
+- 📱 Augmentation Reality fascinates me
 <br>
 
 <h3 align="left">Connect with me:</h3>
