@@ -14,6 +14,8 @@
 - 🏋🏽 Eat Big, Lift Bigger
 
 - 📱 Augmentation Reality fascinates me
+
+- 🧑‍💻 Exploring Android Devops
 <br>
 
 <h3 align="left">Connect with me:</h3>
