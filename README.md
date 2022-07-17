@@ -18,6 +18,14 @@
 - 🧑‍💻 Exploring Android Devops
 <br>
 
+# ⭐ Stats 
+<div align="center">
+
+[![Binay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=KapilYadav-dev&theme=xcode)](https://github.com/KapilYadav-dev) <br>
+
+![GitHub Snake dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mrkaydev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mrkaydev" height="30" width="40" /></a>
