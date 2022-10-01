@@ -41,7 +41,7 @@ Comments
 <!---
 here add the available images in this format and add :-: | no of times you add blogs to fix it.
 -->
-| <img src="https://entrackr.com/storage/2022/01/INDmoney.jpg" alt="Article banner" width="600" /> | <img src="https://phash.dev/imgscout/static/phashlogo.png" alt="Article banner" width="600" /> | <img src="https://repository-images.githubusercontent.com/389729275/371ba38b-8a03-4bff-916c-c3fa5396ceda" alt="Article banner" width="600" /> 
+| <img src="https://entrackr.com/storage/2022/01/INDmoney.jpg" alt="Article banner" width="600" /> | <img src="https://miro.medium.com/max/720/1*Xihz69AbbcBaondXnoXmkg.jpeg" alt="Article banner" width="600" /> | <img src="https://repository-images.githubusercontent.com/389729275/371ba38b-8a03-4bff-916c-c3fa5396ceda" alt="Article banner" width="600" /> 
 | :-: | :-: | :-: | 
 | **INDMoney SDE Android Intern interview experience** | **Phasher Android Library** | **Material Design Pincode in Android with LolliPin Library** |
 | [*Read article*](https://mrkaydev.medium.com/indmoney-android-sde-intern-interview-experience-a427de3083ae) | [*Read article*](https://medium.com/@infokaydev/phasher-android-library-7a585720ad55) | [*Read article*](https://www.geeksforgeeks.org/material-design-pincode-in-android-with-lollipin-library/) 
