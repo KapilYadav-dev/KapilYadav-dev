@@ -5,12 +5,6 @@
 
 -  How to reach me **infokaydev@gmail.com**
 
--  Fun fact **I prefer Parle-G with water**
-
--  Eat Big, Lift Bigger
-
--  Augmentation Reality fascinates me
-
 -  Exploring Android Devops
 <br>
 
